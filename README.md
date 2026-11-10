@@ -105,4 +105,3 @@ Each challenge lives in its own folder with the full write-up (`README.md`) and 
 
 ---
 
-*`Sleepy Therapist` (crypto) and `Hashphobia` (misc) were not solved, so they have no write-up here.*
