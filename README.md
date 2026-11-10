@@ -104,5 +104,3 @@ Each challenge lives in its own folder with the full write-up (`README.md`) and 
 | Scopophobia | 257 | `spooky{Th3_fe3d_goe5_b07H_way$}` | [link](web/scopophobia.md) |
 
 ---
-
-*`Sleepy Therapist` (crypto) and `Hashphobia` (misc) were not solved, so they have no write-up here.*
