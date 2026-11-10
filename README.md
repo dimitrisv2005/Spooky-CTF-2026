@@ -102,5 +102,3 @@ Each challenge lives in its own folder with the full write-up (`README.md`) and 
 | J*b Application | 50 | `spooky{l0v3_ai&j0b_4pplic4t10ns}` | [link](web/job-application/) |
 | Hemophobia | 50 | `spooky{Sepultura}` | [link](web/Hemophobia/Hemophobia_writeup.md) |
 | Scopophobia | 257 | `spooky{Th3_fe3d_goe5_b07H_way$}` | [link](web/scopophobia.md) |
-
----
