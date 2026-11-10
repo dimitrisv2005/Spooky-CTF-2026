@@ -88,7 +88,7 @@ Each writeup walks through the challenge description, our first attempts, the de
 
 | Challenge | Points | Writeup |
 |-----------|-------:|---------|
-| .Pdb Application | 50 | [📄](web/pdb-application/) |
+| Job Application | 50 | [📄](web/pdb-application/) |
 | Hemophobia | 50 | [📄](web/hemophobia/) |
 | Scopophobia | 257 | [📄](web/scopophobia/) |
 
