@@ -1,0 +1,10 @@
+NJIT SECURITY OPERATIONS CENTER
+Incident: NJIT-1031
+Date: October 31, 2026 (all timestamps UTC)
+
+At approximately 03:10 UTC, the SOC noticed unusual authentication activity. An archive resource was accessed shortly afterward.
+
+You have been given sanitized Windows security events and web access logs. Investigate the activity and determine what the intruder left behind.
+
+Deliverable: the flag in spooky{...} format.
+Note: All users, systems, and addresses are fictional. No external access is required.

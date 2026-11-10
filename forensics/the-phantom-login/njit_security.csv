@@ -1,0 +1,237 @@
+timestamp_utc,event_code,account,source_ip,host,result,details
+2026-10-31T01:58:00Z,4634,svc_backup,10.13.9.18,BW-DC01,Success,Routine security event
+2026-10-31T01:57:00Z,4624,bturner,10.13.8.22,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:42:00Z,4624,ewilliams,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:04:00Z,4624,lporter,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:43:00Z,4634,ewilliams,10.13.8.22,BW-DC01,Success,Routine security event
+2026-10-31T03:59:00Z,4624,snguyen,10.13.8.22,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:59:00Z,4634,jroberts,10.13.8.44,BW-APP01,Success,Routine security event
+2026-10-31T02:16:00Z,4624,mcarter,10.13.8.22,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:09:00Z,4624,ewilliams,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:02:00Z,4625,svc_backup,10.13.8.31,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:14:00Z,4625,jroberts,10.13.8.44,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:04:00Z,4624,jroberts,10.13.8.44,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:41:00Z,4624,snguyen,10.13.8.31,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:10:00Z,4624,bturner,10.13.9.14,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:33:00Z,4625,jroberts,10.13.9.14,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:38:00Z,4634,lporter,10.13.9.14,BW-DC01,Success,Routine security event
+2026-10-31T01:51:00Z,4634,snguyen,10.13.9.14,BW-APP01,Success,Routine security event
+2026-10-31T01:00:00Z,4625,ewilliams,10.13.8.22,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:02:00Z,4624,bturner,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:02:00Z,4634,snguyen,10.13.8.44,BW-DC01,Success,Routine security event
+2026-10-31T04:07:00Z,4634,snguyen,10.13.8.31,BW-DC01,Success,Routine security event
+2026-10-31T03:46:00Z,4672,mcarter,10.13.8.44,BW-DC01,Success,Routine security event
+2026-10-31T03:45:00Z,4624,mcarter,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:34:00Z,4624,lporter,10.13.9.18,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:45:00Z,4624,snguyen,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:00:00Z,4624,lporter,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:23:00Z,4625,ewilliams,10.13.9.14,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:20:00Z,4624,lporter,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:35:00Z,4624,ewilliams,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:51:00Z,4625,mcarter,10.13.9.18,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:53:00Z,4624,snguyen,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:45:00Z,4625,lporter,10.13.8.44,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:17:00Z,4625,mcarter,10.13.9.18,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:43:00Z,4634,lporter,10.13.9.14,BW-FS01,Success,Routine security event
+2026-10-31T02:33:00Z,4625,ewilliams,10.13.9.14,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:54:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:06:00Z,4624,svc_backup,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:06:00Z,4624,lporter,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:34:00Z,4624,mcarter,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:42:00Z,4624,jroberts,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:08:00Z,4634,apatel,10.13.9.14,BW-FS01,Success,Routine security event
+2026-10-31T03:10:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T02:07:00Z,4624,mcarter,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:22:00Z,4625,snguyen,10.13.8.22,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:24:00Z,4634,snguyen,10.13.9.18,BW-APP01,Success,Routine security event
+2026-10-31T01:14:00Z,4625,ewilliams,10.13.8.22,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:18:00Z,4624,svc_backup,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:05:00Z,4624,jroberts,10.13.8.22,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:39:00Z,4634,snguyen,10.13.8.31,BW-FS01,Success,Routine security event
+2026-10-31T01:25:00Z,4624,ewilliams,10.13.8.22,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:53:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:49:00Z,4624,ewilliams,10.13.8.22,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:51:00Z,4624,snguyen,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:26:00Z,4625,lporter,10.13.8.22,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:19:00Z,4624,lporter,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:53:00Z,4624,ewilliams,10.13.9.14,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:24:00Z,4624,ewilliams,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:06:00Z,4634,mcarter,10.13.8.31,BW-DC01,Success,Routine security event
+2026-10-31T01:37:00Z,4624,apatel,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:23:00Z,4624,bturner,10.13.9.18,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:09:00Z,4634,mcarter,10.13.8.44,BW-FS01,Success,Routine security event
+2026-10-31T03:00:00Z,4625,apatel,10.13.8.31,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:44:00Z,4624,lporter,10.13.9.18,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:57:00Z,4624,apatel,10.13.9.14,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:09:00Z,4625,ewilliams,10.13.9.14,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:58:00Z,4625,snguyen,10.13.8.31,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:52:00Z,4625,mcarter,10.13.8.22,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:24:00Z,4624,snguyen,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:19:00Z,4634,mcarter,10.13.8.31,BW-DC01,Success,Routine security event
+2026-10-31T02:47:00Z,4624,apatel,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:28:00Z,4624,ewilliams,10.13.8.22,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:45:00Z,4624,jroberts,10.13.9.14,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:46:00Z,4624,apatel,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:17:00Z,4624,ewilliams,10.13.8.22,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:10:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T02:41:00Z,4624,snguyen,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:24:00Z,4624,bturner,10.13.9.14,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:56:00Z,4634,lporter,10.13.8.22,BW-DC01,Success,Routine security event
+2026-10-31T01:57:00Z,4625,ewilliams,10.13.9.14,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:02:00Z,4634,lporter,10.13.8.44,BW-DC01,Success,Routine security event
+2026-10-31T03:15:00Z,4672,evelyn.graves,203.0.113.77,BW-DC01,Success,SpecialPrivilegesAssigned; LogonID=0xB130
+2026-10-31T01:46:00Z,4624,mcarter,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:02:00Z,4624,mcarter,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:07:00Z,4624,bturner,10.13.8.22,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:25:00Z,4634,apatel,10.13.8.44,BW-FS01,Success,Routine security event
+2026-10-31T02:32:00Z,4624,lporter,10.13.8.44,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:01:00Z,4625,snguyen,10.13.8.22,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:47:00Z,4624,snguyen,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:00:00Z,4625,lporter,10.13.8.44,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:00:00Z,4634,ewilliams,10.13.9.14,BW-FS01,Success,Routine security event
+2026-10-31T02:43:00Z,4634,apatel,10.13.8.22,BW-APP01,Success,Routine security event
+2026-10-31T03:36:00Z,4624,jroberts,10.13.8.44,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:13:00Z,4625,bturner,10.13.9.14,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:21:00Z,4634,bturner,10.13.8.31,BW-DC01,Success,Routine security event
+2026-10-31T02:34:00Z,4624,svc_backup,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:00:00Z,4625,lporter,10.13.9.18,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:08:00Z,4634,ewilliams,10.13.9.18,BW-FS01,Success,Routine security event
+2026-10-31T01:52:00Z,4625,jroberts,10.13.8.22,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:07:00Z,4624,apatel,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:35:00Z,4624,snguyen,10.13.8.22,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:10:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T02:03:00Z,4624,jroberts,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:42:00Z,4625,lporter,10.13.9.18,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:18:00Z,4624,bturner,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:47:00Z,4625,ewilliams,10.13.8.31,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:23:00Z,4634,snguyen,10.13.8.22,BW-APP01,Success,Routine security event
+2026-10-31T03:14:00Z,4624,ewilliams,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:20:00Z,4625,apatel,10.13.8.31,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:51:00Z,4625,apatel,10.13.9.18,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:18:00Z,4634,mcarter,10.13.8.44,BW-FS01,Success,Routine security event
+2026-10-31T02:25:00Z,4624,svc_backup,10.13.8.31,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:09:00Z,4624,apatel,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:30:00Z,4624,jroberts,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:30:00Z,4625,jroberts,10.13.8.44,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:57:00Z,4624,bturner,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:55:00Z,4624,ewilliams,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:38:00Z,4624,svc_backup,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:11:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T01:49:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T02:45:00Z,4624,bturner,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:14:00Z,4624,evelyn.graves,203.0.113.77,BW-DC01,Success,LogonType=3; AuthenticationPackage=NTLM; LogonID=0xB130
+2026-10-31T03:16:00Z,4624,lporter,10.13.8.31,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:42:00Z,4634,mcarter,10.13.9.14,BW-APP01,Success,Routine security event
+2026-10-31T03:23:00Z,4634,svc_backup,10.13.9.14,BW-FS01,Success,Routine security event
+2026-10-31T01:21:00Z,4624,ewilliams,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:48:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T02:23:00Z,4625,jroberts,10.13.9.14,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:40:00Z,4624,bturner,10.13.8.22,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:01:00Z,4624,bturner,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:09:00Z,4624,jroberts,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:12:00Z,4625,svc_backup,10.13.9.14,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:32:00Z,4634,bturner,10.13.9.18,BW-DC01,Success,Routine security event
+2026-10-31T03:15:00Z,4624,bturner,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:59:00Z,4624,apatel,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:03:00Z,4634,lporter,10.13.8.44,BW-APP01,Success,Routine security event
+2026-10-31T02:53:00Z,4625,snguyen,10.13.9.18,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:59:00Z,4634,svc_backup,10.13.8.44,BW-FS01,Success,Routine security event
+2026-10-31T01:43:00Z,4624,svc_backup,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:52:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:53:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T03:34:00Z,4624,jroberts,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:02:00Z,4625,apatel,10.13.8.44,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:57:00Z,4624,snguyen,10.13.8.22,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:21:00Z,4625,jroberts,10.13.9.14,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:51:00Z,4625,bturner,10.13.8.31,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:12:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T02:43:00Z,4624,lporter,10.13.9.18,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:40:00Z,4624,ewilliams,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:18:00Z,4624,ewilliams,10.13.9.14,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:23:00Z,4624,mcarter,10.13.8.22,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:54:00Z,4634,snguyen,10.13.8.31,BW-FS01,Success,Routine security event
+2026-10-31T02:36:00Z,4634,jroberts,10.13.8.44,BW-APP01,Success,Routine security event
+2026-10-31T01:14:00Z,4624,lporter,10.13.8.22,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:51:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:26:00Z,4624,snguyen,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:51:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:57:00Z,4634,lporter,10.13.8.44,BW-DC01,Success,Routine security event
+2026-10-31T03:25:00Z,4624,bturner,10.13.9.14,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:18:00Z,4625,mcarter,10.13.8.31,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:19:00Z,4634,jroberts,10.13.9.18,BW-FS01,Success,Routine security event
+2026-10-31T03:12:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T03:24:00Z,4634,jroberts,10.13.9.18,BW-DC01,Success,Routine security event
+2026-10-31T01:49:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:48:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:01:00Z,4625,jroberts,10.13.9.14,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:00:00Z,4624,mcarter,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:36:00Z,4625,mcarter,10.13.9.18,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:35:00Z,4624,lporter,10.13.9.14,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:04:00Z,4625,snguyen,10.13.8.44,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:02:00Z,4625,apatel,10.13.8.44,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:00:00Z,4625,snguyen,10.13.8.44,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:26:00Z,4624,apatel,10.13.9.18,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:52:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T02:39:00Z,4624,lporter,10.13.8.31,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:00:00Z,4624,lporter,10.13.9.14,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:56:00Z,4624,bturner,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:09:00Z,4624,mcarter,10.13.9.14,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:33:00Z,4634,apatel,10.13.8.44,BW-DC01,Success,Routine security event
+2026-10-31T03:27:00Z,4624,apatel,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:11:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T03:47:00Z,4624,mcarter,10.13.8.22,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:06:00Z,4625,bturner,10.13.9.14,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:44:00Z,4625,apatel,10.13.8.44,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:09:00Z,4634,mcarter,10.13.9.18,BW-DC01,Success,Routine security event
+2026-10-31T01:51:00Z,4625,jroberts,10.13.8.22,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:06:00Z,4634,apatel,10.13.9.14,BW-DC01,Success,Routine security event
+2026-10-31T01:58:00Z,4634,svc_backup,10.13.8.44,BW-APP01,Success,Routine security event
+2026-10-31T04:07:00Z,4634,jroberts,10.13.9.18,BW-DC01,Success,Routine security event
+2026-10-31T01:54:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T01:50:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T03:11:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T01:10:00Z,4624,jroberts,10.13.8.22,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:12:00Z,4634,svc_backup,10.13.8.22,BW-FS01,Success,Routine security event
+2026-10-31T03:01:00Z,4634,apatel,10.13.9.14,BW-FS01,Success,Routine security event
+2026-10-31T03:23:00Z,4624,snguyen,10.13.8.31,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:01:00Z,4624,jroberts,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T04:01:00Z,4624,bturner,10.13.8.44,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:06:00Z,4634,ewilliams,10.13.8.44,BW-APP01,Success,Routine security event
+2026-10-31T02:41:00Z,4624,lporter,10.13.8.22,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:46:00Z,4634,snguyen,10.13.8.31,BW-DC01,Success,Routine security event
+2026-10-31T03:11:00Z,4624,lporter,10.13.9.14,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:05:00Z,4624,bturner,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:42:00Z,4624,svc_backup,10.13.8.22,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:35:00Z,4624,lporter,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:56:00Z,4624,ewilliams,10.13.9.18,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:20:00Z,4624,snguyen,10.13.8.31,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:58:00Z,4625,jroberts,10.13.8.31,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:07:00Z,4624,lporter,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:16:00Z,4624,snguyen,10.13.9.18,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:12:00Z,4625,evelyn.graves,203.0.113.77,BW-DC01,Failure,LogonType=3; Status=0xC000006A
+2026-10-31T01:50:00Z,4625,administrator,198.51.100.66,BW-DC01,Failure,LogonType=3; Status=0xC000006D
+2026-10-31T02:09:00Z,4634,jroberts,10.13.9.18,BW-DC01,Success,Routine security event
+2026-10-31T03:52:00Z,4634,snguyen,10.13.9.14,BW-DC01,Success,Routine security event
+2026-10-31T01:57:00Z,4624,jroberts,10.13.8.31,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:59:00Z,4624,bturner,10.13.8.44,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:08:00Z,4624,ewilliams,10.13.9.14,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:06:00Z,4634,bturner,10.13.9.14,BW-DC01,Success,Routine security event
+2026-10-31T03:27:00Z,4634,mcarter,10.13.9.18,BW-FS01,Success,Routine security event
+2026-10-31T02:19:00Z,4624,bturner,10.13.8.22,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:17:00Z,5140,evelyn.graves,203.0.113.77,BW-FS01,Success,ShareName=\\BW-FS01\Archives$; LogonID=0xB130
+2026-10-31T03:36:00Z,4625,ewilliams,10.13.8.31,BW-FS01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:39:00Z,4624,snguyen,10.13.9.14,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:33:00Z,4624,bturner,10.13.9.14,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:14:00Z,4624,jroberts,10.13.8.31,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:30:00Z,4624,mcarter,10.13.9.14,BW-DC01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:47:00Z,4634,lporter,10.13.8.31,BW-APP01,Success,Routine security event
+2026-10-31T01:37:00Z,4634,svc_backup,10.13.8.31,BW-DC01,Success,Routine security event
+2026-10-31T01:42:00Z,4625,mcarter,10.13.9.18,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T03:03:00Z,4624,ewilliams,10.13.8.44,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:12:00Z,4634,bturner,10.13.9.14,BW-APP01,Success,Routine security event
+2026-10-31T03:27:00Z,4624,mcarter,10.13.9.14,BW-FS01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:40:00Z,4624,bturner,10.13.8.31,BW-APP01,Success,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T02:16:00Z,4634,bturner,10.13.9.14,BW-DC01,Success,Routine security event
+2026-10-31T04:05:00Z,4625,svc_backup,10.13.9.14,BW-DC01,Failure,LogonType=3; AuthenticationPackage=Negotiate
+2026-10-31T01:56:00Z,4634,snguyen,10.13.8.22,BW-FS01,Success,Routine security event
+2026-10-31T01:14:00Z,4625,svc_backup,10.13.9.18,BW-APP01,Failure,LogonType=3; AuthenticationPackage=Negotiate
